@@ -1,6 +1,6 @@
 # Capstone: Full-Stack Portfolio & Blog
 
-Student ID: 24998039 · Name: Hu Yuhan (胡语涵)
+Student ID: 24998089 · Name: Wang Shiqi (王诗淇)
 Course: Web Data Management and Application
 
 A production-ready full-stack personal portfolio + blog:
@@ -9,7 +9,7 @@ A production-ready full-stack personal portfolio + blog:
 
 ## Live URLs
 
-- Frontend: https://capstone-portfolio-two.vercel.app
+- Frontend: https://capstone-portfolio-gray.vercel.app
 - Backend API: https://positive-reprieve-production.up.railway.app
 
 ## Project structure
